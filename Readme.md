@@ -1,6 +1,9 @@
 ### Contest Link
 https://www.kaggle.com/competitions/asl-signs
 
+### Notebook Link
+The notebook link has more details of the dataset used which can be find here : https://www.kaggle.com/code/stanptown/ensemble/notebook
+
 ### Final Accuracy 
 Public Score - 0.66
 Private Score - 0.74
